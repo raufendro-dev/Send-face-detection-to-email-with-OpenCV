@@ -1,3 +1,5 @@
+#Send-face-detection-with-OpenCV
+#By raufendro
 import cv2
 import numpy as np
 import time
