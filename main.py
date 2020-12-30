@@ -5,9 +5,9 @@ import numpy as np
 import time
 from mail import proses
 import os
-import multiprocessing
 
-t2 = multiprocessing.Process(target=proses)
+
+
 timestr = time.strftime("%Y%m%d-%H%M")
 
 
